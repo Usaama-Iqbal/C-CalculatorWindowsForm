@@ -1,0 +1,11 @@
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\bin\Debug\youCalculator.exe.config
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\bin\Debug\youCalculator.exe
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\bin\Debug\youCalculator.pdb
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\obj\Debug\youCalculator.csproj.AssemblyReference.cache
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\obj\Debug\youCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\obj\Debug\youCalculator.Properties.Resources.resources
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\obj\Debug\youCalculator.csproj.GenerateResource.cache
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\obj\Debug\youCalculator.csproj.CoreCompileInputs.cache
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\obj\Debug\youCalculator.exe
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\obj\Debug\youCalculator.pdb
+C:\Users\usama\Desktop\Project\Windows Form\youCalculator\youCalculator\obj\Debug\youCalculator.frmCal.resources
